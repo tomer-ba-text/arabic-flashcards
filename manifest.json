@@ -1,0 +1,11 @@
+{
+  "name": "תרגול ערבית פלסטינית",
+  "short_name": "תרגול ערבית",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#EFE6D6",
+  "theme_color": "#EFE6D6",
+  "dir": "rtl",
+  "lang": "he",
+  "icons": [{ "src": "icon.png", "sizes": "180x180", "type": "image/png" }]
+}
